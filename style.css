@@ -1,0 +1,36 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    background-color: pink;
+}
+h2,ul,li{
+    display: inline;
+}
+ul{
+    margin-left: 60%;
+}
+li{
+margin-left: 2%;
+}
+
+.one{
+    background-color: palevioletred;
+    width: 100vw;
+    padding: 2%;
+    margin-left: 0%;
+}
+
+a{
+    color: black;
+}
+
+.bye{
+    font-size: 800%;
+    text-align: center;
+}
+
+.about{
+    text-align: center;
+    justify-content: space-evenly;
+    
+}
